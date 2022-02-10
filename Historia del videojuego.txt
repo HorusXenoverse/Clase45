@@ -1,0 +1,12 @@
+Historia del videojuego:
+-Luego de practicar varios deportes extremos deciden realizar uno q pruebe la resistencia y 
+los tiempos de reacción de cada uno en el aire, Estás preparado para el desafío?
+
+Reglas:
+-Ambos jugadores tendrás 1 sola vida
+-Deben esquivar los obstáculos(Elementos al azar y Elementos de habilidad)
+-Deberan lograr la mayor puntuación posible(El juego los premiará por ello)
+-La dificultad del juego irá aumentando pogresivamente a medida q se adquiera mayor puntuación (Darle
+más velocidad a los objetos u luego aumentar la aparición de estos)
+
+Nombre: Air acrobaticts
